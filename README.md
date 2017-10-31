@@ -12,12 +12,22 @@ Luego,  se realiza una electroforesis en gel de agarosa y una espectrofometria p
 
 
 
+
+
+
+
+
 2.-  A partir de los datos de la bacterias encontradas anteriormente, se realiza un análisis especifico a cada una de las bacterias, a partir de esto, se analiza las bacterias de la flora normal de una muestra fecal, secuenciando con el método shotgun  y ver parámetros en términos de abundancia relativa y tipos de bacterias normales, y establecer comparaciones, que permita detectar que parámetros están fuera de los que se encuentran habitualmente, seleccionarlos y establecer análisis filogenético, en comparación a una serie de patógenos intestinales y determinar cuál es el más cercano evolutivamente, estableciendo la probabilidad de que sea el responsable de la infección en el paciente.
 
 Otra forma, seria estableciendo cuantitativamente cuales son las abundancias relativas de cada bacteria en la muestra, con el antecedente de que cualquier infección depende de la carga bacteriana, la bacteria que mas cantidad represente en la muestra, tiene probabilidades de ser la responsable de la infección, al presentar una cantidad más alta, tiene mayor capacidad de producir los efectos nocivos.
  
 
 
+ 
+ 
+ 
+ 
+ 
  
 
 
